@@ -1,7 +1,6 @@
 # 🔵 Simple API Health Checker
 
-Script Python sederhana untuk mengecek status kesehatan sebuah endpoint API.  
-Sangat cocok untuk monitoring cepat, automation kecil, atau utilitas DevOps & DevSecOps.
+Script Python sederhana untuk mengecek status kesehatan sebuah endpoint API. Sangat cocok untuk monitoring cepat, automation kecil, atau utilitas DevOps & DevSecOps.
 
 ---
 
